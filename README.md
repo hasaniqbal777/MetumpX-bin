@@ -40,7 +40,7 @@ $ cd MetumpX-bin
 
 # Start Installation
 $ chmod +x MetumpX_setup_enUS
-$ sudo bash MetumpX_setup_enUS
+$ sudo ./MetumpX_setup_enUS
 ```
 
 Follow the on-screen dialogue boxes for installation.
@@ -55,7 +55,8 @@ Follow the on-screen dialogue boxes for installation.
 This project complies against license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
 
 ## 📙 Docs
-* [Supplementary Material](https://github.com/hasaniqbal777/MetumpX-bin/blob/master/Docs/MetumpX_supplementary.pdf)
+* [User Guide](https://github.com/hasaniqbal777/MetumpX/blob/master/Docs/supplementary_user-guide.pdf)
+* [Supplementary Tables](https://github.com/hasaniqbal777/MetumpX/blob/master/Docs/supplementary_tables.pdf)
 
 ## 📔 Revision History
 **Version 1.0**
@@ -67,4 +68,10 @@ This project complies against license [GNU General Public License v3.0](https://
  - MetumpX initial release
  - 39 Tools added (Total 89 Tools)
  - Pipeline Correction
+ - Bug fixes
+
+ **Version 2.1**
+ - 15 Tools added (Total 103 Tools)
+ - User Guide released
+ - Added Support with Microsoft Windows using Virtualization (See User Guide)
  - Bug fixes

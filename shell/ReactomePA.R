@@ -1,2 +1,1 @@
-source("https://bioconductor.org/biocLite.R")
-biocLite("ReactomePA")
+BiocManager::install("ReactomePA")
