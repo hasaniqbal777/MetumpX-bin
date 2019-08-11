@@ -62,3 +62,9 @@ This project complies against license [GNU General Public License v3.0](https://
  - MetumpX initial release
  - 50 Tools
  - GUI Installation with Selection
+
+ **Version 2.0**
+ - MetumpX initial release
+ - 39 Tools added (Total 89 Tools)
+ - Pipeline Correction
+ - Bug fixes
