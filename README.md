@@ -55,7 +55,14 @@ Follow the on-screen dialogue boxes for installation.
 This project complies against license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
 
 ## 📙 Docs
-* [User Guide](https://github.com/hasaniqbal777/MetumpX/blob/master/Docs/supplementary_user-guide.pdf)
+* [User Guide](https://github.com/hasaniqbal777/MetumpX-bin/blob/master/Docs/supplementary_user-guide.pdf)
+
+## ✒️ Citation
+If you use MetumpX in your research, please make sure that you reference the following article:
+
+Bilal Wajid, Hasan Iqbal, Momina Jamil, Hafsa Rafique, Faria Anwar, MetumpX—a metabolomics support package for untargeted mass spectrometry, Bioinformatics, , btz765. [https://doi.org/10.1093/bioinformatics/btz765](https://doi.org/10.1093/bioinformatics/btz765)
+
+If your field uses BibTeX, we provide a [BibTeX](https://github.com/hasaniqbal777/MetumpX-bin/blob/master/Docs/btz765.bibtex) citation that you can use. Alternatively, if you use EndNote, we provide an [EndNote](https://github.com/hasaniqbal777/MetumpX-bin/blob/master/Docs/btz765.enw) file as well.
 
 ## 📔 Revision History
 **Version 1.0**
