@@ -2,7 +2,7 @@
 <img width=60% src="https://github.com/hasaniqbal777/MetumpX-bin/blob/master/media/logo.png">
 </h1>
 
-<h4 align="center">A Metabolomics Support Package for Untargeted Mass Spectrometery</h4>
+<h4 align="center">A Metabolomics Support Package for Untargeted Mass Spectrometry</h4>
 
 <p align="center">
 <a href="https://www.gnu.org/licenses/gpl-3.0">
@@ -26,7 +26,7 @@
   <a href="#-revision-history">Revision History</a>
 </p>
 
-MetumpX is a Ubuntu based software package that facilitate easy download and installation of about 89 tools related to standard Untargeted Metabolomics Mass Spectrometery pipeline.
+MetumpX is a Ubuntu based software package that facilitate easy download and installation of about 89 tools related to standard Untargeted Metabolomics Mass Spectrometry pipeline.
 
 ## 💾 Installation
 To clone and run this application, you'll need [Git](https://git-scm.com). From your command line:
@@ -40,7 +40,7 @@ $ cd MetumpX-bin
 
 # Start Installation
 $ chmod +x MetumpX_setup_enUS
-$ sudo bash MetumpX_setup_enUS
+$ sudo ./MetumpX_setup_enUS
 ```
 
 Follow the on-screen dialogue boxes for installation.
@@ -55,7 +55,7 @@ Follow the on-screen dialogue boxes for installation.
 This project complies against license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
 
 ## 📙 Docs
-* [Supplementary Material](https://github.com/hasaniqbal777/MetumpX-bin/blob/master/Docs/MetumpX_supplementary.pdf)
+* [User Guide](https://github.com/hasaniqbal777/MetumpX/blob/master/Docs/supplementary_user-guide.pdf)
 
 ## 📔 Revision History
 **Version 1.0**
@@ -67,4 +67,10 @@ This project complies against license [GNU General Public License v3.0](https://
  - MetumpX initial release
  - 39 Tools added (Total 89 Tools)
  - Pipeline Correction
+ - Bug fixes
+
+ **Version 2.1**
+ - 15 Tools added (Total 103 Tools)
+ - User Guide released
+ - Added Support with Microsoft Windows using Virtualization (See User Guide)
  - Bug fixes
